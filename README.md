@@ -9,6 +9,6 @@ cpPic2 kopiert Fotos von der Speicherkarte deiner Digitalkamera auf deinen PC. D
 # Wie darf ich die Software nutzen, verändern, weitergeben, ...?
 
 Du bekommst diesen Code kostenlos und darfst mit ihm machen was du willst, du bekommst jedoch keine Garantie auf Sicherheit, Fuktionalität oder sonst irgendwas.
-Sollte mein Code die Welt untergehen lassen oder sonstige Schäden (auch im kleineren Maße) anrichten, sag' nicht, ich wäre Schuld, denn ich habe dich gewarnt.
+Sollte mein Code die Welt untergehen lassen oder sonstige Schäden (auch im kleineren Maße) anrichten, sag' nicht, ich sei schuld, denn ich habe dich gewarnt.
 
 Es ist ratsam, diese oder eine entsprechend angepasste README-Datei mit dem Code weiterzugeben, aber ich werde dich nicht dazu zwingen.
