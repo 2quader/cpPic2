@@ -4,7 +4,11 @@ cpPic2 kopiert Fotos von der Speicherkarte deiner Digitalkamera auf deinen PC. D
 
 # Screenshot
 
-![Screenshot](https://github.com/downloads/2quader/cpPic2/screenshot.png)
+![Screenshot](http://embed.githubdl.bitendlager.tk/cpPic2/screenshot.png)
+
+# Downloads
+
+Eine kompilierte Version steht [hier](http://githubdl.bitendlager.tk/cpPic2/cpPic2.zip) zum Download zur Verfügung.
 
 # Wie darf ich die Software nutzen, verändern, weitergeben, ...?
 
