@@ -8,4 +8,4 @@ cpPic2 kopiert Fotos von der Speicherkarte deiner Digitalkamera auf deinen PC. D
 
 # Wie darf ich die Software nutzen, verändern, weitergeben, ...?
 
-Kurzform: webBkmx steht unter der MIT-Lizenz. Weitere Informationen in LICENSE.txt.
+Kurzform: cpPic2 steht unter der MIT-Lizenz. Weitere Informationen in LICENSE.txt.
